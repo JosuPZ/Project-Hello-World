@@ -2,7 +2,7 @@
 This project consists of the most basic Hello World application developed with android studio.
 
 ## The application
-Here are some screesnhots of how the application looks on an android device.
+Here is a screesnhot of how the application looks on an android device.
 
 ![Screenshot 1](/app/src/main/res/drawable/screenshot2.jpg)
 
