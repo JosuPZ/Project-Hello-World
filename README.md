@@ -1,6 +1,13 @@
 # Hello World
 This project consists of the most basic Hello World application developed with android studio.
 
+## The application
+Here are some screesnhots of how the application looks on an android device.
+
+![](/app/src/main/res/drawable/screenshot2.jpg)
+
+![](/app/src/main/res/drawable/screenshot3.jpg)
+
 ## Info
 * Link to the course used [here](https://eu.udacity.com/course/android-basics-user-interface--ud834)
 
