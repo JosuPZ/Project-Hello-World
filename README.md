@@ -8,6 +8,7 @@ Here is a screesnhot of how the application looks on an android device.
 
 ## Info
 * Link to the course used [here](https://eu.udacity.com/course/android-basics-user-interface--ud834)
+* Link to the google play application [here](https://play.google.com/store/apps/details?id=com.pz.helloworld&gl=ES)
 
 ## About me
 My name is Josu Pérez Zarraonandia. I am a math student who loves coding and learning new tools.
